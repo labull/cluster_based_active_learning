@@ -2,7 +2,7 @@
 
 * This software implements cluster-based active learning in MATLAB, via Dasgupta's and Hsu's (DH) Algorithm.
 * The **original paper** for the DH algorithm can be found [here](http://icml2008.cs.helsinki.fi/papers/324.pdf); cite to credit the authors.
-* This code was written for engineering applications. Algorithm details can be found [here](https://www.sciencedirect.com/science/article/pii/S0022460X18305479?via%3Dihub); cite if you use this software.
+* This code was written to reproduce results similar to those presented in an engineering application paper -- details can be found [here](https://www.sciencedirect.com/science/article/pii/S0022460X18305479?via%3Dihub).
 
 If you find any bugs/errors in the code, get in contact via the issues tab.
 
